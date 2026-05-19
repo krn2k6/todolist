@@ -63,3 +63,8 @@ add.addEventListener("click", () => {
     console.log(li);
 
 })
+
+
+
+
+//made myself without watching any tutorial for this particular thing...
